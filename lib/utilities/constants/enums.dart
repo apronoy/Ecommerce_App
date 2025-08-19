@@ -1,0 +1,1 @@
+enum TextSizes{ samll,medium,large}
