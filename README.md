@@ -1,16 +1,26 @@
-# myecommerceapp
+# E-Commerce App
 
-A new Flutter project.
+A Flutter-based e-commerce application that allows users to browse and search for products with a beautiful and modern UI. The app integrates Firebase for secure user authentication and email verification.
 
-## Getting Started
+## Key Features :
 
-This project is a starting point for a Flutter application.
+  1. User authentication with Firebase (login & signup)
+  
+  2. Email verification for secure access
+  
+  3. Splash screen displayed on app launch
+  
+  4. Search products by name or accessory type
+  
+  5. Responsive and visually appealing Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  1. Flutter (Dart) for cross-platform development
+  
+  2. Firebase Authentication for secure login and email verification
+  
+  3. Firestore/Database integration for storing product data
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Projects Output 
+  
